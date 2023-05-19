@@ -1,2 +1,2 @@
 # pygame_game_1
-For the noob pygame I am making from the pygame workshop I did at Habib (2023)
+This is a single-player videogame I made as a personal project. I gained some of the pygame skills from the Winter Workshop covering pygame, offered by Habib University on December 2022. It takes in user input for movement, and the goal is to avoid the spikes and eat the globs. If you eat a certain amount of globs, you win the game. If you lose all your hearts, you lose. After a certain amount of globs, you regain a heart.
